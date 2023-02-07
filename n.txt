@@ -1,6 +1,15 @@
-Script started on 2023-02-07 18:04:33+01:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="80" LINES="29"]
+Script started on 2023-02-07 18:10:14+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="29"]
 [?2004h]0;melisa@melisa-VirtualBox: ~/Desktop[01;32mmelisa@melisa-VirtualBox[00m:[01;34m~/Desktop[00m$ cd prueba/
-[?2004l[?2004h]0;melisa@melisa-VirtualBox: ~/Desktop/prueba[01;32mmelisa@melisa-VirtualBox[00m:[01;34m~/Desktop/prueba[00m$ [?2004l
+[?2004l[?2004h]0;melisa@melisa-VirtualBox: ~/Desktop/prueba[01;32mmelisa@melisa-VirtualBox[00m:[01;34m~/Desktop/prueba[00m$ gedit prueba
+[?2004l^[[D[?2004h]0;melisa@melisa-VirtualBox: ~/Desktop/prueba[01;32mmelisa@melisa-VirtualBox[00m:[01;34m~/Desktop/prueba[00m$ gedit prueba
+prueba2.py  prueba.py   
+]0;melisa@melisa-VirtualBox: ~/Desktop/prueba[01;32mmelisa@melisa-VirtualBox[00m:[01;34m~/Desktop/prueba[00m$ gedit prueba2.py 
+[?2004l[?2004h]0;melisa@melisa-VirtualBox: ~/Desktop/prueba[01;32mmelisa@melisa-VirtualBox[00m:[01;34m~/Desktop/prueba[00m$ cd ..
+[?2004l[?2004h]0;melisa@melisa-VirtualBox: ~/Desktop[01;32mmelisa@melisa-VirtualBox[00m:[01;34m~/Desktop[00m$ gedit s
+ssh.zip  sube.sh  
+]0;melisa@melisa-VirtualBox: ~/Desktop[01;32mmelisa@melisa-VirtualBox[00m:[01;34m~/Desktop[00m$ gedit sube.sh 
+[?2004l[?2004h]0;melisa@melisa-VirtualBox: ~/Desktop[01;32mmelisa@melisa-VirtualBox[00m:[01;34m~/Desktop[00m$ gedit sube.sh [K[K[K[K[K[K[K[Kqs.sh 
+[?2004l[?2004h]0;melisa@melisa-VirtualBox: ~/Desktop[01;32mmelisa@melisa-VirtualBox[00m:[01;34m~/Desktop[00m$ [?2004l
 exit
 
-Script done on 2023-02-07 18:04:38+01:00 [COMMAND_EXIT_CODE="0"]
+Script done on 2023-02-07 18:13:46+01:00 [COMMAND_EXIT_CODE="0"]
