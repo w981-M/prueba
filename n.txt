@@ -1,38 +1,5 @@
-Script started on 2023-02-07 18:14:05+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="29"]
-[?2004h]0;melisa@melisa-VirtualBox: ~/Desktop[01;32mmelisa@melisa-VirtualBox[00m:[01;34m~/Desktop[00m$ cd prueba/
-[?2004l[?2004h]0;melisa@melisa-VirtualBox: ~/Desktop/prueba[01;32mmelisa@melisa-VirtualBox[00m:[01;34m~/Desktop/prueba[00m$ bash ../sube.sh prueba2.py ""A"d"d"e"d"[1P"[1P"[1P"d"e"e"[1P"d" "i"n" [A]0;melisa@melisa-VirtualBox: ~/Desktop/prueba[01;32mmelisa@melisa-VirtualBox[00m:[01;34m~/Desktop/prueba[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd"e"n"t"[C
-[?2004lOn branch main
-Your branch is up to date with 'origin/main'.
-
-nothing to commit, working tree clean
-Everything up-to-date
-[?2004h]0;melisa@melisa-VirtualBox: ~/Desktop/prueba[01;32mmelisa@melisa-VirtualBox[00m:[01;34m~/Desktop/prueba[00m$ bash ../sube.sh prueba2.py "Added indent"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ch prueba2.py "Added inden[1Pt"[A]0;melisa@melisa-VirtualBox: ~/Desktop/prueba[01;32mmelisa@melisa-VirtualBox[00m:[01;34m~/Desktop/prueba[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[Ch prueba2.py "Added indent[1P"[A]0;melisa@melisa-VirtualBox: ~/Desktop/prueba[01;32mmelisa@melisa-VirtualBox[00m:[01;34m~/Desktop/prueba[00m$ [C[C[C[C[C[C[C[C[C[C[C[C prueba2.py "Added indent"[K[A]0;melisa@melisa-VirtualBox: ~/Desktop/prueba[01;32mmelisa@melisa-VirtualBox[00m:[01;34m~/Desktop/prueba[00m$ [C[C[C[C[C[C[C[C[C[C[C[C/sube prueba2.py "Added indent" [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P
-[?2004lCommand 'sube' not found, did you mean:
-  command 'subl' from snap sublime-text (4143)
-  command 'jube' from deb jube (2.4.2-1)
-  command 'subs' from deb libsubtitles-perl (1.04-2)
-  command 'sure' from deb python3-sure (2.0.0-1build1)
-  command 'qube' from deb avogadro-utils (1.95.1-8)
-See 'snap info <snapname>' for additional versions.
-[?2004h]0;melisa@melisa-VirtualBox: ~/Desktop/prueba[01;32mmelisa@melisa-VirtualBox[00m:[01;34m~/Desktop/prueba[00m$ cd .. 
-[?2004l[?2004h]0;melisa@melisa-VirtualBox: ~/Desktop[01;32mmelisa@melisa-VirtualBox[00m:[01;34m~/Desktop[00m$ gedit sube.sh 
-[?2004l[?2004h]0;melisa@melisa-VirtualBox: ~/Desktop[01;32mmelisa@melisa-VirtualBox[00m:[01;34m~/Desktop[00m$ cd prueba/
-[?2004l[?2004h]0;melisa@melisa-VirtualBox: ~/Desktop/prueba[01;32mmelisa@melisa-VirtualBox[00m:[01;34m~/Desktop/prueba[00m$ gedit prueba2.py 
-[?2004l[?2004h]0;melisa@melisa-VirtualBox: ~/Desktop/prueba[01;32mmelisa@melisa-VirtualBox[00m:[01;34m~/Desktop/prueba[00m$ gedit prueba2.py [7Pcd prueba/gedit sube.sh [8Pcd ..[Csube prueba2.py "Added indent"bash ../sube.sh prueba2.py "Added indent"
-[?2004l[main 35f2c3a] Added indent
- 1 file changed, 1 insertion(+)
-Enumerating objects: 5, done.
-Counting objects:  20% (1/5)Counting objects:  40% (2/5)Counting objects:  60% (3/5)Counting objects:  80% (4/5)Counting objects: 100% (5/5)Counting objects: 100% (5/5), done.
-Compressing objects:  33% (1/3)Compressing objects:  66% (2/3)Compressing objects: 100% (3/3)Compressing objects: 100% (3/3), done.
-Writing objects:  33% (1/3)Writing objects:  66% (2/3)Writing objects: 100% (3/3)Writing objects: 100% (3/3), 287 bytes | 287.00 KiB/s, done.
-Total 3 (delta 2), reused 0 (delta 0), pack-reused 0
-remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[K
-remote: This repository moved. Please use the new location:[K
-remote:   https://github.com/w981-M/prueba.git[K
-To https://github.com/w981-m/prueba.git
-   90e7a03..35f2c3a  main -> main
-[?2004h]0;melisa@melisa-VirtualBox: ~/Desktop/prueba[01;32mmelisa@melisa-VirtualBox[00m:[01;34m~/Desktop/prueba[00m$ [?2004l
+Script started on 2023-02-07 18:23:10+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="29"]
+[?2004h]0;melisa@melisa-VirtualBox: ~/Desktop[01;32mmelisa@melisa-VirtualBox[00m:[01;34m~/Desktop[00m$ [?2004l
 exit
 
-Script done on 2023-02-07 18:16:21+01:00 [COMMAND_EXIT_CODE="0"]
+Script done on 2023-02-07 18:23:12+01:00 [COMMAND_EXIT_CODE="0"]
