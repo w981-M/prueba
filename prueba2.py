@@ -12,4 +12,5 @@ ventana.title('Hora')
 etiqueta = Label(ventana, font=('arial', 20, 'bold'), background='black', foreground='white') 
 etiqueta.pack(anchor='center')
 hora() 
+
 mainloop()
